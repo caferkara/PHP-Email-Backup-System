@@ -24,3 +24,7 @@ If you're using your hosting package's emails, you're likely to have limited sto
 Once installation is complete, you'll be redirected to the homepage. To fetch emails from the Inbox and Sent folders on your server, click the "Refresh" button located in the top right corner to save them to your database. Note that the "Refresh" buttons for the Inbox and Sent folders are separate, so you'll need to click each button separately to download emails from both folders.
 
 If you have questions about this system, you can contact me via this link: https://bit.ly/4cmrJnK
+
+# License
+
+This project is licensed under the MIT License.
