@@ -1,4 +1,4 @@
-# PHP-Email-Backup-System
+# PHP Email Backup System
 
 With this PHP email backup system, you can retrieve your emails from the server and store them in a database. This way, even if emails are deleted from the server, they will always remain in the database.
 
