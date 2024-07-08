@@ -25,6 +25,10 @@ Once installation is complete, you'll be redirected to the homepage. To fetch em
 
 If you have questions about this system, you can contact me via this link: https://bit.ly/4cmrJnK
 
+# Sobre el Sistema de Respaldo de Correos Electrónicos en PHP
+
+[Haga clic aquí para leer más](https://caferkara.com.tr/projects/features-and-changelogs/sobre-el-sistema-de-respaldo-de-correos-electronicos-en-php/#post-3)
+
 # License
 
 This project is licensed under the MIT License.
