@@ -29,6 +29,10 @@ If you have questions about this system, you can contact me via this link: https
 
 [Haga clic aquí para leer más](https://caferkara.com.tr/projects/features-and-changelogs/sobre-el-sistema-de-respaldo-de-correos-electronicos-en-php/#post-3)
 
+# Enlace de soporte
+
+[Haga clic aquí para obtener ayuda](https://caferkara.com.tr/projects/php-email-backup-system-support/)
+
 # License
 
 This project is licensed under the MIT License.
