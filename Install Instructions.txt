@@ -1,0 +1,8 @@
+1. First, create a database along with a username and password. After creating these, fill in the necessary fields in "config.php" with the information you have generated.
+
+2. In the files "fetch_emails.php" and "fetch_sent_emails.php", update the "hostname, username, password" sections at the top with your own email server information.
+
+3. Execute the link https://yourweblink.com/install.php to create the necessary table structures within the database. Once the table setup is complete, please delete or rename the install.php file for your security.
+
+
+If you have any questions, you can reach me through this link: https://caferkara.com.tr/projects/php-email-backup-system-support/
