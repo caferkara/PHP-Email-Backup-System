@@ -26,11 +26,7 @@ If you have questions about this system, you can contact me via this link: https
 
 # Sobre el Sistema de Respaldo de Correos Electrónicos en PHP
 
-[Haga clic aquí para leer más](https://caferkara.com.tr/projects/features-and-changelogs/sobre-el-sistema-de-respaldo-de-correos-electronicos-en-php/#post-3)
-
-# Enlace de soporte
-
-[Haga clic aquí para obtener ayuda](https://caferkara.com.tr/projects/php-email-backup-system-support/)
+[Haga clic aquí para leer más](https://caferkara.co/php-projects/respaldo-de-correos-electronicos-en-php/)
 
 # License
 
